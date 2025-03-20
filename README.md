@@ -1,4 +1,4 @@
-# strokes <img src="https://github.com/nicolas-izquierdo/strokes/blob/737791f3e4ed33d09e3758c53d0e2040c40ad1f0/Logo.png" align="right" height="138" />
+# strokes <img src="https://github.com/nicolas-izquierdo/strokes/blob/737791f3e4ed33d09e3758c53d0e2040c40ad1f0/Logo.png" align="right" height="158" />
 
 
 [![Project Status: Active – The project has reached a stable, usable
