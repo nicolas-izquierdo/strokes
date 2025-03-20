@@ -1,4 +1,4 @@
-# strokes
+# strokes <img src="man/figures/logo.png" align="right" height="138" />
 
 [![Project Status: Active – The project has reached a stable, usable
 state and is being actively
