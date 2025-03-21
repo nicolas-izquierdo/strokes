@@ -7,4 +7,4 @@ developed.](https://www.repostatus.org/badges/latest/active.svg)](https://www.re
 
 
 ## Overview
-*strokes* provides access to a complete dataset of songs by The Strokes, including their full lyrics. 
+*strokes* provides access to a complete dataset of songs by The Strokes, featuring their full lyrics along with various musical and contextual details. Lyrics have been scrapped from [Genius](https://www.genius.com).
